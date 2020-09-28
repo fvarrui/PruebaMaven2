@@ -2,6 +2,11 @@ package dad.maven.prueba;
 
 import org.apache.commons.lang.StringUtils;
 
+/**
+ * Combina objetos como un único String
+ * @author fvarrui
+ *
+ */
 public class Combinar {
 	
 	public static String combinar(Object [] array) {
